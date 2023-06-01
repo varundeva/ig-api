@@ -1,2 +1,2 @@
 flask==2.1.4
-instaloader=4.9.6
+instaloader==4.9.6
